@@ -1,0 +1,11 @@
+Style/AlignParameters:
+  Exclude:
+    - '**/metadata.rb'
+
+Style/SingleSpaceBeforeFirstArg:
+  Exclude:
+    - '**/metadata.rb'
+
+Metrics/LineLength:
+  Exclude:
+    - 'attributes/**'
